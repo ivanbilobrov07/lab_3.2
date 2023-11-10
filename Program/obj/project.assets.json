@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        }
+      },
+      "Tree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+    },
+    "Tree/1.0.0": {
+      "type": "project",
+      "path": "../BinaryTree/Tree.csproj",
+      "msbuildProject": "../BinaryTree/Tree.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClassLibrary >= 1.0.0",
+      "Tree >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\Program\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\BinaryTree\\Tree.csproj": {
+              "projectPath": "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\BinaryTree\\Tree.csproj"
+            },
+            "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\ClassLibrary\\ClassLibrary.csproj": {
+              "projectPath": "D:\\NAU\\2 year\\1 semester\\OOP\\lab_2\\ClassLibrary\\ClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\bin\Debug\net6.0\Tree.deps.json
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\bin\Debug\net6.0\Tree.dll
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\bin\Debug\net6.0\Tree.pdb
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.csproj.AssemblyReference.cache
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.AssemblyInfoInputs.cache
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.AssemblyInfo.cs
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.csproj.CoreCompileInputs.cache
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.dll
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\refint\Tree.dll
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\Tree.pdb
+D:\NAU\2 year\1 semester\OOP\lab_2\BinaryTree\obj\Debug\net6.0\ref\Tree.dll
